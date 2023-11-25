@@ -1,4 +1,4 @@
 # Livro Lógica de Programação
- Primeiro repositótio
+ Primeiro repositório
 
 Criado em aula
