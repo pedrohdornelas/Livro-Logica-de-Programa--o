@@ -1,2 +1,4 @@
-# Livro Logica de Programação
+# Livro Lógica de Programação
  Primeiro repositótio
+
+Criado em aula
